@@ -2,4 +2,4 @@
 
 Hi!
 
-Hubot here,I like Node.
+这是一个mode.
